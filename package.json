@@ -1,0 +1,14 @@
+{
+  "name": "prom-ua-integration",
+  "version": "1.0.0",
+  "description": "nodejs prom-ua api wrapper",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file=.env main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Maksym Shenderuk <jaood96@gmail.com>",
+  "license": "MIT"
+}
